@@ -28,7 +28,7 @@
 
 # Thông tin không nhất quán hoặc có dấu hiệu gian lận: Thông tin mâu thuẫn hoặc dấu hiệu gian lận sẽ khiến hồ sơ bị từ chối. Cần đảm bảo tính nhất quán và trung thực trong hồ sơ.
 
-# 
+# Xem chi tiết tại: https://dichvutaichinh.vn/ly-do-ho-so-chung-minh-tai-chinh-bi-tu-choi.html
 
 # Không đáp ứng các yêu cầu đặc biệt khác: Mỗi quốc gia có yêu cầu riêng về chứng minh tài chính. Cần tìm hiểu kỹ yêu cầu của quốc gia bạn xin visa để chuẩn bị hồ sơ phù hợp.
 
